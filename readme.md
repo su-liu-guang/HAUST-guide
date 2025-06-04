@@ -1,5 +1,7 @@
 # 河南科技大学生存指北
 
+河南科技大学2025贴吧迎新群:1033991890
+
 ## 报道篇
 
 报道地址为：
@@ -155,7 +157,7 @@ __如果校园一卡通丢失，请及时在圈存机上挂失！__
 | 3号楼  | ✓      |        | ✓        |        | ✓    |
 | 4号楼  |        | ✓      |          | ✓      | ✓    |
 | 5号楼  |        | ✓      | ✓        |        |      |
-| 6号楼  |        | ✓      |          | ✓      | ✓    |
+| 6号楼  | ✓      |        |✓         |       | ✓    |
 | 7号楼  |        | ✓      |          | ✓      | ✓    |
 | 8号楼  |        | ✓      |          | ✓      | ✓    |
 | 9号楼  |        | ✓      |          | ✓      | ✓    |
@@ -561,13 +563,12 @@ __阅览室周四下午不开__
 如有任何问题请在issue留言，笔者将在15个工作日内回复(也可能不会)
 交流群：824965867
 
-LICENSE： [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+LICENSE:[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+© [溯流光](https://github.com/su-liu-guang) | [项目地址](https://github.com/su-liu-guang/HAUST-guide)  
+本指南采用 [知识共享署名-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/) 授权
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]： http：//creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]： https：//licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]： https：//img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+**使用时您必须：**
+1. 📝 **注明作者**：清晰标注 `溯流光` 或 `su-liu-guang`
+2. 🔗 **提供来源**：附上项目链接 [github.com/su-liu-guang/HAUST-guide](https://github.com/su-liu-guang/HAUST-guide)
+3. 🔄 **相同方式共享**：基于本指南创作的内容需使用 **相同协议(CC BY-SA 4.0)** 发布
