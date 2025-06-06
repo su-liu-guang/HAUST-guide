@@ -29,28 +29,28 @@
 
 ### 学校官方网站
 
-[河南科技大学](https：//www.haust.edu.cn/)
+[河南科技大学](https://www.haust.edu.cn/)
 
-[RSS](https：//www.haust.edu.cn/system/resource/code/rss/rssfeed.jsp?type=list&treeid=1049&viewid=55526&mode=10&dbname=vsb&owner=1469948790&ownername=haust2018&contentid=60522&number=20&httproot=https%3A%2F%2Fwww.haust.edu.cn)
+[RSS](https://www.haust.edu.cn/system/resource/code/rss/rssfeed.jsp?type=list&treeid=1049&viewid=55526&mode=10&dbname=vsb&owner=1469948790&ownername=haust2018&contentid=60522&number=20&httproot=https%3A%2F%2Fwww.haust.edu.cn)
 
 学校的各种通知会发布在上面
 
-[河南科技大学教务处](https：//jwc.haust.edu.cn/)
+[河南科技大学教务处](https://jwc.haust.edu.cn/)
 
 一部分通知会发布在教务处
 
-[河南科技大学教务管理系统](https：//jwgl.haust.edu.cn/)
+[河南科技大学教务管理系统](https://jwgl.haust.edu.cn/)
 
 选课及查看考试时间等
 
-[网络信息与现代教育技术中心](https：//metic.haust.edu.cn/)
+[网络信息与现代教育技术中心](https://metic.haust.edu.cn/)
 
 一卡通、校园网、教育邮箱等使用方法
 
-[河南科技大学体育学院](https：//ty.haust.edu.cn/)
+[河南科技大学体育学院](https://ty.haust.edu.cn/)
 查询当年体测成绩
 
-[各学院官网](https：//www.haust.edu.cn/xxgk/xyxb.htm)
+[各学院官网](https://www.haust.edu.cn/xxgk/xyxb.htm)
 
 __强烈建议使用RSS订阅学校官网、教务处及本学院通知__
 
@@ -66,7 +66,7 @@ __强烈建议使用RSS订阅学校官网、教务处及本学院通知__
 
 2.我i科大电脑端服务中心在线缴费功能微信或支付宝充值。
 
-3.[校园支付平台](https：//pay.haust.edu.cn)在线缴费功能微信或支付宝充值。
+3.[校园支付平台](https://pay.haust.edu.cn)在线缴费功能微信或支付宝充值。
 
 4.在圈存机上签约圈存(从绑定的银行卡上扣款充值)。
 学生一卡通补办
@@ -109,7 +109,7 @@ __如果校园一卡通丢失，请及时在圈存机上挂失！__
 
 #### 有线网
 
-寝室有线网免费使用，用网线将电脑和宿舍有线网端口连接起来后使用[上网认证客户端(宿舍)](https：//metic.haust.edu.cn/info/1010/1677.htm)即可登录使用，登录账号为学号，初始密码为身份证后6位。
+寝室有线网免费使用，用网线将电脑和宿舍有线网端口连接起来后使用[上网认证客户端(宿舍)](https://metic.haust.edu.cn/info/1010/1677.htm)即可登录使用，登录账号为学号，初始密码为身份证后6位。
 嘉园和菁园由于是老园区，故宿舍内网口速率最高为100M。乾元为近几年新建的园区，网口速率可达1000M，下载学习资料或者游戏可以跑满上行与下行。
 
 #### 无线网
@@ -123,7 +123,7 @@ __如果校园一卡通丢失，请及时在圈存机上挂失！__
 
 #### VPN
 
-校外使用学校内网服务需使用VPN服务，使用方法见[VPN服务指南](https：//metic.haust.edu.cn/info/1010/1591.htm)
+校外使用学校内网服务需使用VPN服务，使用方法见[VPN服务指南](https://metic.haust.edu.cn/info/1010/1591.htm)
 
 ## 生活篇
 
@@ -360,7 +360,7 @@ $\text{平均学分绩点}=\frac{\sum\text{课程学分绩点}}{\sum\text{课程
 
 大一上学期体育必修太极，__大一上学期体育选课只是选老师，一定要选择学校分配的老师避免造成无法登记成绩等问题__
 
-以下为往年选课规则仅供参考,以[教务处](https：//jwc.haust.edu.cn/)发布通知为准
+以下为往年选课规则仅供参考,以[教务处](https://jwc.haust.edu.cn/)发布通知为准
 
 1. 第一、二轮选课：前两轮均无课程容量及选课时间先后的限制，无需抢课。选课后依据选课结果进行筛选，筛出多余课程容量的学生。两次选课筛选时不分当轮选课时间先后，第一轮筛选后的选课数据在第二轮不会被筛选掉。第二轮选课应避免选择第一轮人数已选满的课程。
 
@@ -394,7 +394,7 @@ $\text{平均学分绩点}=\frac{\sum\text{课程学分绩点}}{\sum\text{课程
 
 ### 申请学校邮箱
 
-  首先在“我i科大-学生服务-在籍学生开通学校邮箱申请流程”提交申请，申请通过后在<https：//mail.haust.edu.cn/> 选择“忘记密码”设置密码 [电子邮件用户帮助文档](https：//metic.haust.edu.cn/info/1031/1614.htm)
+  首先在“我i科大-学生服务-在籍学生开通学校邮箱申请流程”提交申请，申请通过后在<https://mail.haust.edu.cn/> 选择“忘记密码”设置密码 [电子邮件用户帮助文档](https://metic.haust.edu.cn/info/1031/1614.htm)
   
   <img src="./images/在籍学生开通学校邮箱申请流程.jpg"  width="140px" alt="在籍学生开通学校邮箱申请流程" />
 
@@ -485,10 +485,10 @@ __如果遭遇代班、代团或其他人员强制或变相强制办理校园卡
 部分同学有使用电子版书籍的需要，这里列举几种寻找电子版书籍的方法
 
 - 搜索引擎、知乎、b站等平台  使用较广泛的书籍一般都能找到
-- [学校购买数据库](https：//lib2.haust.edu.cn/libweb/digitalDatabase)
+- [学校购买数据库](https://lib2.haust.edu.cn/libweb/digitalDatabase)
 - Z-library,annas-archive(安娜的档案)，Library Genesis 请自行寻找镜像站点
-- [找书网](https：//findbooks.eu.org/) [findbooks](www.findbooks.info)
-- [文献互助小帮手](https：//greasyfork.org/zh-CN/scripts/435569-%E6%96%87%E7%8C%AE%E4%BA%92%E5%8A%A9%E5%B0%8F%E5%B8%AE%E6%89%8B-%E8%AF%BB%E7%A7%80pdf%E4%B8%80%E9%94%AE%E4%B8%8B%E8%BD%BD-%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%81%94%E7%9B%9F-%E8%AF%BB%E7%A7%80-%E8%B6%85%E6%98%9F-%E4%B8%AD%E7%BE%8E%E7%99%BE%E4%B8%87%E6%98%BE%E7%A4%BAssid%E7%AD%89%E7%B4%A2%E4%B9%A6%E5%8F%B7-%E5%90%84%E6%96%87%E7%8C%AE%E7%AB%99-%E5%9B%BE%E4%B9%A6%E7%94%B5%E5%95%86%E7%AB%99%E4%B8%8E%E8%B1%86%E7%93%A3%E7%9A%84%E4%BA%92%E8%AE%BF%E9%93%BE%E6%8E%A5-%E4%B8%80%E9%94%AE%E5%A4%8D%E5%88%B6%E5%85%83%E6%95%B0%E6%8D%AE) (本校已购买读秀数据库)
+- [找书网](https://findbooks.eu.org/) [findbooks](www.findbooks.info)
+- [文献互助小帮手](https://greasyfork.org/zh-CN/scripts/435569-%E6%96%87%E7%8C%AE%E4%BA%92%E5%8A%A9%E5%B0%8F%E5%B8%AE%E6%89%8B-%E8%AF%BB%E7%A7%80pdf%E4%B8%80%E9%94%AE%E4%B8%8B%E8%BD%BD-%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%81%94%E7%9B%9F-%E8%AF%BB%E7%A7%80-%E8%B6%85%E6%98%9F-%E4%B8%AD%E7%BE%8E%E7%99%BE%E4%B8%87%E6%98%BE%E7%A4%BAssid%E7%AD%89%E7%B4%A2%E4%B9%A6%E5%8F%B7-%E5%90%84%E6%96%87%E7%8C%AE%E7%AB%99-%E5%9B%BE%E4%B9%A6%E7%94%B5%E5%95%86%E7%AB%99%E4%B8%8E%E8%B1%86%E7%93%A3%E7%9A%84%E4%BA%92%E8%AE%BF%E9%93%BE%E6%8E%A5-%E4%B8%80%E9%94%AE%E5%A4%8D%E5%88%B6%E5%85%83%E6%95%B0%E6%8D%AE) (本校已购买读秀数据库)
 
 ### 志愿时长
 
